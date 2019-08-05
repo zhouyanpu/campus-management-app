@@ -1,0 +1,57 @@
+.bardy {
+  background-color: rgb(240, 162, 162);
+  display: flex;
+  height: 60px;
+  /* padding: 0;
+    margin: 0; */
+  justify-content: center;
+  align-items: baseline;
+  border-radius: 50px;
+  margin-bottom: 18px;
+  width: 83%;
+  box-shadow: 0 3px 6px 0px rgba(0, 0, 0, 0.2);
+  align-items: center;
+}
+
+input {
+  margin-left: 12px;
+  font-size: 20px;
+  height: 25px;
+  border-radius: 5px;
+  width: 180px;
+}
+
+button {
+  background-color: blanchedalmond;
+  width: 160px;
+  height: 30px;
+  margin: 10px;
+  font-weight: bold;
+  color: rgb(172, 87, 87);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn :focus {
+  outline: none;
+}
+
+h4 {
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: lavender;
+  text-shadow: 30px 30px 35px rgb(250, 4, 4);
+}
+
+h1 {
+  text-shadow: 0 0 35px rgb(223, 0, 0);
+}
+
+.barbox {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  background-color: blanchedalmond;
+}
